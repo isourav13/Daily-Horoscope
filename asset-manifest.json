@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/daily-horoscope/static/css/main.31d18c1d.chunk.css",
-    "main.js": "/daily-horoscope/static/js/main.aec4457c.chunk.js",
-    "main.js.map": "/daily-horoscope/static/js/main.aec4457c.chunk.js.map",
+    "main.js": "/daily-horoscope/static/js/main.484a08fb.chunk.js",
+    "main.js.map": "/daily-horoscope/static/js/main.484a08fb.chunk.js.map",
     "runtime-main.js": "/daily-horoscope/static/js/runtime-main.9c869bf0.js",
     "runtime-main.js.map": "/daily-horoscope/static/js/runtime-main.9c869bf0.js.map",
     "static/js/2.19279b2d.chunk.js": "/daily-horoscope/static/js/2.19279b2d.chunk.js",
     "static/js/2.19279b2d.chunk.js.map": "/daily-horoscope/static/js/2.19279b2d.chunk.js.map",
     "index.html": "/daily-horoscope/index.html",
-    "precache-manifest.bde1811e0c93350c1ef1902b9d20b1a9.js": "/daily-horoscope/precache-manifest.bde1811e0c93350c1ef1902b9d20b1a9.js",
+    "precache-manifest.c35a5bce83734fba66244e9de1f02e79.js": "/daily-horoscope/precache-manifest.c35a5bce83734fba66244e9de1f02e79.js",
     "service-worker.js": "/daily-horoscope/service-worker.js",
     "static/css/main.31d18c1d.chunk.css.map": "/daily-horoscope/static/css/main.31d18c1d.chunk.css.map",
     "static/js/2.19279b2d.chunk.js.LICENSE.txt": "/daily-horoscope/static/js/2.19279b2d.chunk.js.LICENSE.txt",
@@ -42,6 +42,6 @@
     "static/js/runtime-main.9c869bf0.js",
     "static/js/2.19279b2d.chunk.js",
     "static/css/main.31d18c1d.chunk.css",
-    "static/js/main.aec4457c.chunk.js"
+    "static/js/main.484a08fb.chunk.js"
   ]
 }

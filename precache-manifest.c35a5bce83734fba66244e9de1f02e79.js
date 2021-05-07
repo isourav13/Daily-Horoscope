@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5b6e510311a1d2e7c30571d9221646a",
+    "revision": "4e9c2fbc01c31111cd282bfb241ea930",
     "url": "/daily-horoscope/index.html"
   },
   {
-    "revision": "ed6dee19c44d207c32e3",
+    "revision": "6fac87746507f3bd62b2",
     "url": "/daily-horoscope/static/css/main.31d18c1d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/daily-horoscope/static/js/2.19279b2d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ed6dee19c44d207c32e3",
-    "url": "/daily-horoscope/static/js/main.aec4457c.chunk.js"
+    "revision": "6fac87746507f3bd62b2",
+    "url": "/daily-horoscope/static/js/main.484a08fb.chunk.js"
   },
   {
     "revision": "ddb26a3965233958d0da",
