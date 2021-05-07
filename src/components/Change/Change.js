@@ -21,7 +21,7 @@ const Change = ({changeSign}) => {
 
     return (
     <div className="card2">
-        <div className="title"><p>Choose Your Sign</p></div>
+        <div className="title"><p>Choose Your Sun Sign</p></div>
         <div className="flex" id="first">
             <img className="sign" src={require('../../signs/aquarius.png')} onMouseEnter={(e) => signName(e)} onMouseOut={() => clear()} onClick={(e) => change(e)}/>
             <img className="sign" src={require('../../signs/aries.png')} onMouseEnter={(e) => signName(e)} onMouseOut={() => clear()} onClick={(e) => change(e)}/>
